@@ -1,0 +1,10 @@
+ 5 operations on stack 
+1. push means adding the element in the array  size is inccrease by 1
+2.  pop meand removing the emenet from stack  size is decreased by 1
+3.  isEmpty 
+4. isFull
+5. peek - wrting the top elemmet without removing it 
+Stack is LIFO Last in First out 
+Static Aray can be created using the Array
+Dynamic array can be cretaed using LinkeList
+ https://www.youtube.com/watch?v=KrKoP7UKnKs&list=PLFGoYjJG_fqr0clnojPodWK3Kv3er5lnd

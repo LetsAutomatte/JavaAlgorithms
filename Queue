@@ -1,0 +1,12 @@
+Queue is FIFO
+2 pointers - Front and Rear
+
+2 operations 
+   enqueue - adding the element
+   dequue - removing the data  
+Data is added at Rear(Last) = Rear+1
+ 
+Data removed from Front (star) = Front = Front+1 and Rear-1
+
+
+https://www.youtube.com/watch?v=qcm1gfgXdoI&list=PLFGoYjJG_fqr0clnojPodWK3Kv3er5lnd&index=3
